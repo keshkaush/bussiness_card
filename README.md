@@ -1,6 +1,6 @@
 # bussiness_card
 
-A new Flutter application.
+This is a bussiness card of mine that shows my information in a creative design base.
 
 ## Getting Started
 
